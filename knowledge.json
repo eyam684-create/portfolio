@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "name": "Eya Mhiri",
+    "title_fr": "Étudiante en Systèmes Embarqués & IoT",
+    "title_en": "Embedded Systems & IoT Student",
+    "location": "Hammam Sousse, Tunisie",
+    "phone": "+216 28 728 334",
+    "email": "eyam684@gmail.com",
+    "linkedin": "https://linkedin.com/in/eyamhiri22781a358",
+    "github": "[TO FILL — your GitHub URL]"
+  },
+  "about": {
+    "fr": "Étudiante en 3e année de Licence en Ingénierie des Systèmes Informatiques (Systèmes Embarqués & IoT) à l'ISITCOM, j'ai conçu un robot AGV connecté (ESP32, capteurs infrarouges, commande Bluetooth) et développé des applications de gestion pour un hôtel. Passionnée par l'IoT, la robotique et l'IA, je recherche un stage de PFE pour concevoir des systèmes intelligents et connectés. Autonome, rigoureuse et Team Leader d'une équipe lauréate d'un challenge IA, j'apporte à l'entreprise rigueur technique, esprit d'équipe et sens de l'initiative.",
+    "en": "Third-year Bachelor student in Computer Systems Engineering (Embedded Systems & IoT) at ISITCOM. I designed a connected AGV robot (ESP32, infrared sensors, Bluetooth control) and developed management applications for a hotel. Passionate about IoT, robotics and AI, I am looking for a final-year internship to design smart and connected systems. Autonomous, rigorous, and Team Leader of an award-winning AI challenge team, I bring technical rigor, teamwork and initiative to the workplace."
+  },
+  "skills": {
+    "embedded": {
+      "label_fr": "Systèmes Embarqués & IoT",
+      "label_en": "Embedded Systems & IoT",
+      "items": ["ESP32", "Arduino UNO", "Microcontrôleurs", "Capteurs & Actionneurs", "Prototypage électronique"]
+    },
+    "robotics": {
+      "label_fr": "Robotique & Automatisation",
+      "label_en": "Robotics & Automation",
+      "items": ["AGV", "Suivi de ligne", "Commande de moteurs (L298N)"]
+    },
+    "programming": {
+      "label_fr": "Programmation",
+      "label_en": "Programming",
+      "items": ["Python", "C", "Java", "C++", "JavaScript", "HTML/CSS", "React", "SQL/MySQL", "PHP"]
+    },
+    "data_ai": {
+      "label_fr": "Data & IA",
+      "label_en": "Data & AI",
+      "items": ["Machine Learning", "Deep Learning", "Traitement d'image", "IA générative"]
+    },
+    "cybersecurity": {
+      "label_fr": "Cybersécurité",
+      "label_en": "Cybersecurity",
+      "items": ["Fondamentaux Cisco", "CTF", "Sécurité web (XSS, SQL Injection)", "OSINT", "Cryptographie"]
+    },
+    "tools": {
+      "label_fr": "Outils",
+      "label_en": "Tools",
+      "items": ["SolidWorks", "MIT App Inventor", "Android Studio", "Figma"]
+    },
+    "soft": {
+      "label_fr": "Compétences comportementales",
+      "label_en": "Soft Skills",
+      "items_fr": ["Autonomie", "Rigueur", "Travail en équipe", "Leadership", "Communication", "Adaptabilité"],
+      "items_en": ["Autonomy", "Rigor", "Teamwork", "Leadership", "Communication", "Adaptability"]
+    }
+  },
+  "projects": [
+    {
+      "id": "mitigo",
+      "title": "MitiGo – AGV Connecté",
+      "description_fr": "Prototype de robot de transport conçu, programmé, testé et validé de bout en bout. Conception d'un AGV connecté pour le transport de kits industriels, avec suivi de ligne (5 capteurs TCRT5000), programmation ESP32, commande de moteurs via L298N et contrôle Bluetooth via une application mobile.",
+      "description_en": "End-to-end designed, programmed, tested and validated transport robot prototype. Connected AGV for industrial kit transport, with line following (5 TCRT5000 sensors), ESP32 programming, motor control via L298N and Bluetooth control via a mobile app.",
+      "tech": ["ESP32", "TCRT5000", "L298N", "Bluetooth", "MIT App Inventor"],
+      "link": "[TO FILL]",
+      "image": "assets/project-mitigo.jpg"
+    },
+    {
+      "id": "emergency",
+      "title_fr": "Routage Dynamique pour Services Médicaux d'Urgence",
+      "title_en": "Dynamic Vehicle Routing for Emergency Medical Services",
+      "description_fr": "Solution intelligente pour réduire le temps de réponse des ambulances : identification des hôpitaux disponibles, analyse de la circulation, calcul dynamique de l'itinéraire optimal et estimation de l'heure d'arrivée en temps réel.",
+      "description_en": "Smart solution to reduce ambulance response time: identifying available hospitals, traffic analysis, dynamic optimal route calculation and real-time ETA estimation.",
+      "tech": ["Python", "Machine Learning", "Algorithmes"],
+      "link": "[TO FILL]",
+      "image": "assets/project-emergency.jpg"
+    },
+    {
+      "id": "ainight",
+      "title": "AI Night Challenge – Midnight Coders",
+      "description_fr": "Team Leader de l'équipe lauréate à la 5e édition du AI Night Challenge. Développement de solutions d'IA appliquée pour améliorer la vie quotidienne (Echo-Lab, UniHelp). Coordination de l'équipe et présentation de la solution.",
+      "description_en": "Team Leader of the winning team at the 5th edition of AI Night Challenge. Developed applied AI solutions to improve daily life (Echo-Lab, UniHelp). Team coordination and solution presentation.",
+      "tech": ["Python", "IA", "Machine Learning"],
+      "link": "[TO FILL]",
+      "image": "assets/project-ainight.jpg"
+    },
+    {
+      "id": "hotel",
+      "title_fr": "Logiciels de Gestion Hôtelière",
+      "title_en": "Hotel Management Software",
+      "description_fr": "Développement d'un logiciel de facturation hôtelière pour la gestion des réservations et des paiements, et d'un logiciel de gestion de paie avec calculs automatiques (nuits, promotions, réductions, TVA).",
+      "description_en": "Developed hotel billing software for reservation and payment management, and payroll management software with automatic calculations (nights, promotions, discounts, VAT).",
+      "tech": ["Python", "SQL", "PHP", "Figma"],
+      "link": "[TO FILL]",
+      "image": "assets/project-hotel.jpg"
+    }
+  ],
+  "experience": [
+    {
+      "type": "work",
+      "title_fr": "Stagiaire – Conception & développement IoT / Robotique (projet MitiGo)",
+      "title_en": "Intern – IoT Design & Development / Robotics (MitiGo project)",
+      "company": "Mitech",
+      "date": "2026",
+      "description_fr": "Conception d'un AGV connecté pour le transport de kits industriels. Développement du suivi de ligne avec 5 capteurs infrarouges TCRT5000. Programmation de l'ESP32 et commande de deux moteurs via le pilote L298N. Intégration du contrôle Bluetooth via une application mobile.",
+      "description_en": "Design of a connected AGV for industrial kit transport. Line following with 5 TCRT5000 infrared sensors. ESP32 programming and motor control via L298N driver. Bluetooth control integration via mobile app.",
+      "tech": ["ESP32", "TCRT5000", "L298N", "Bluetooth", "MIT App Inventor"]
+    },
+    {
+      "type": "work",
+      "title_fr": "Stagiaire – Développement logiciel",
+      "title_en": "Intern – Software Development",
+      "company": "Hôtel El Mouradi Port El Kantaoui, Sousse",
+      "date": "Juillet – Août 2025",
+      "date_en": "July – August 2025",
+      "description_fr": "Développement d'un logiciel de facturation hôtelière pour la gestion des réservations et des paiements. Conception d'un logiciel de gestion de paie générant les fiches de paie.",
+      "description_en": "Developed hotel billing software for reservation and payment management. Designed payroll management software generating pay slips.",
+      "tech": ["Python", "SQL", "PHP", "Figma"]
+    }
+  ],
+  "education": [
+    {
+      "title_fr": "Licence en Ingénierie des Systèmes Informatiques – Systèmes Embarqués & IoT",
+      "title_en": "Bachelor in Computer Systems Engineering – Embedded Systems & IoT",
+      "institution": "ISITCOM – Hammam Sousse",
+      "date": "2024 – présent",
+      "date_en": "2024 – present",
+      "details_fr": "Modules clés : Architecture IoT, Systèmes temps réel embarqués, Co-design, IA & Machine Learning, Sécurité IoT, Réseaux sans fil pour l'IoT.",
+      "details_en": "Key modules: IoT Architecture, Real-time Embedded Systems, Co-design, AI & Machine Learning, IoT Security, Wireless Networks for IoT."
+    },
+    {
+      "title_fr": "Baccalauréat en Sciences Expérimentales",
+      "title_en": "Baccalaureate in Experimental Sciences",
+      "institution": "Lycée Hammam Sousse",
+      "date": "2024",
+      "details_fr": "",
+      "details_en": ""
+    }
+  ],
+  "certifications": [
+    { "title": "Introduction to Cybersecurity", "org": "Cisco Networking Academy", "year": "2026" },
+    { "title": "Fundamentals of Deep Learning", "org": "NVIDIA", "year": "2026" },
+    { "title": "Digital Twins & Industry 4.0 Certification Program", "org": "Innosphere Virtual Summit", "year": "2026" },
+    { "title": "Hashgraph Developer Course", "org": "The Hashgraph Association", "year": "2026" },
+    { "title": "Image Processing in Python", "org": "DataCamp", "year": "2025" }
+  ],
+  "events": [
+    "Pioneers25 Challenge – Team Leader, Innovation & Technology Challenge CTF (2026)",
+    "CTF 24h – Cybersécurité web, OSINT et cryptographie (2026)",
+    "Hackathon Securinette – Cybersécurité (2025)",
+    "Nuit de l'info – Compétition nationale (2026)",
+    "HUMANOVATORS – IEEE SIGHT ENSIT Student Branch (2026)",
+    "Arduino & ESP32 Workshop",
+    "SolidWorks Bootcamp",
+    "Agentic AI Conference – Data Science Dojo (2026)"
+  ],
+  "associations": [
+    "IEEE", "ARSI", "ATTAST", "Securinet Club", "Croissant-Rouge Tunisien", "JCI Sousse"
+  ],
+  "languages_spoken": [
+    { "lang_fr": "Arabe", "lang_en": "Arabic", "level_fr": "Langue maternelle", "level_en": "Native" },
+    { "lang_fr": "Français", "lang_en": "French", "level_fr": "Professionnel", "level_en": "Professional" },
+    { "lang_fr": "Anglais", "lang_en": "English", "level_fr": "Professionnel", "level_en": "Professional" }
+  ],
+  "chatbot_responses": {
+    "fr": {
+      "greeting": "Bonjour ! 👋 Je suis l'assistant virtuel d'Eya. Comment puis-je vous aider ? Vous pouvez me poser des questions sur ses compétences, ses projets, sa formation ou comment la contacter.",
+      "skills": "Eya maîtrise les systèmes embarqués (ESP32, Arduino), la robotique, la programmation (Python, C, Java), l'IA & Machine Learning, et possède des connaissances en cybersécurité. Elle utilise aussi SolidWorks, Figma et Android Studio.",
+      "projects": "Eya a réalisé plusieurs projets : MitiGo (un robot AGV connecté avec ESP32), une solution de routage dynamique pour ambulances, et des logiciels de gestion hôtelière. Elle a aussi été Team Leader de l'équipe lauréate au AI Night Challenge.",
+      "education": "Eya est en 3e année de Licence en Ingénierie des Systèmes Informatiques, spécialité Systèmes Embarqués & IoT, à l'ISITCOM Hammam Sousse. Elle a aussi obtenu un baccalauréat en Sciences Expérimentales.",
+      "contact": "Vous pouvez contacter Eya par email à eyam684@gmail.com, par téléphone au +216 28 728 334, ou via LinkedIn. Elle est basée à Hammam Sousse, Tunisie.",
+      "experience": "Eya a effectué un stage chez Mitech en 2026 (conception d'un AGV connecté – projet MitiGo), et un stage à l'Hôtel El Mouradi Port El Kantaoui en été 2025 (développement de logiciels de gestion hôtelière).",
+      "certifications": "Eya possède des certifications de Cisco (Cybersécurité), NVIDIA (Deep Learning), Innosphere (Digital Twins & Industry 4.0), The Hashgraph Association, et DataCamp (Image Processing en Python).",
+      "internship": "Eya recherche un stage PFE de 6 mois dans le domaine des systèmes embarqués, de l'IoT, de la robotique ou de l'IA. N'hésitez pas à la contacter à eyam684@gmail.com !",
+      "fallback": "Je ne suis pas sûr de comprendre votre question. Vous pouvez me demander des informations sur les compétences, les projets, la formation, les certifications ou comment contacter Eya. 😊"
+    },
+    "en": {
+      "greeting": "Hello! 👋 I'm Eya's virtual assistant. How can I help you? You can ask me about her skills, projects, education, or how to contact her.",
+      "skills": "Eya is skilled in embedded systems (ESP32, Arduino), robotics, programming (Python, C, Java), AI & Machine Learning, and has cybersecurity knowledge. She also uses SolidWorks, Figma, and Android Studio.",
+      "projects": "Eya has completed several projects: MitiGo (a connected AGV robot with ESP32), a dynamic routing solution for ambulances, and hotel management software. She was also Team Leader of the winning team at the AI Night Challenge.",
+      "education": "Eya is a 3rd-year Bachelor student in Computer Systems Engineering, specializing in Embedded Systems & IoT, at ISITCOM Hammam Sousse. She also holds a Baccalaureate in Experimental Sciences.",
+      "contact": "You can contact Eya by email at eyam684@gmail.com, by phone at +216 28 728 334, or via LinkedIn. She is based in Hammam Sousse, Tunisia.",
+      "experience": "Eya completed an internship at Mitech in 2026 (connected AGV design – MitiGo project), and at Hotel El Mouradi Port El Kantaoui in summer 2025 (hotel management software development).",
+      "certifications": "Eya holds certifications from Cisco (Cybersecurity), NVIDIA (Deep Learning), Innosphere (Digital Twins & Industry 4.0), The Hashgraph Association, and DataCamp (Image Processing in Python).",
+      "internship": "Eya is looking for a 6-month final-year internship in embedded systems, IoT, robotics, or AI. Feel free to contact her at eyam684@gmail.com!",
+      "fallback": "I'm not sure I understand your question. You can ask me about Eya's skills, projects, education, certifications, or how to contact her. 😊"
+    },
+    "keywords": {
+      "skills": ["compétence", "skill", "sait faire", "maîtrise", "technolog", "capable", "savoir"],
+      "projects": ["projet", "project", "réalis", "créé", "construit", "mitigo", "agv", "robot", "ambulance", "hotel", "hôtel", "ai night"],
+      "education": ["formation", "étude", "education", "diplôme", "licence", "isitcom", "université", "bac"],
+      "contact": ["contact", "email", "mail", "téléphone", "phone", "linkedin", "joindre", "reach"],
+      "experience": ["expérience", "experience", "stage", "intern", "travail", "work", "mitech", "mouradi"],
+      "certifications": ["certificat", "certif", "cisco", "nvidia", "datacamp", "formation"],
+      "internship": ["pfe", "stage", "intern", "recherche", "cherche", "looking", "hire", "recrut"]
+    },
+    "suggested_questions": {
+      "fr": [
+        "Quelles sont ses compétences ?",
+        "Parle-moi de ses projets",
+        "Quelle est sa formation ?",
+        "Comment la contacter ?",
+        "Quelles certifications a-t-elle ?",
+        "Cherche-t-elle un stage ?"
+      ],
+      "en": [
+        "What are her skills?",
+        "Tell me about her projects",
+        "What is her education?",
+        "How to contact her?",
+        "What certifications does she have?",
+        "Is she looking for an internship?"
+      ]
+    }
+  }
+}
